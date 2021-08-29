@@ -1,0 +1,12 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = nano
+[user]
+	name = RYUChellN
+	email = 1910370077k@kindai.ac.jp
+[color]
+	diff = auto
+	status = auto
+	branch = auto
