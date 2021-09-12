@@ -13,13 +13,13 @@ class CreateChatUser extends Migration
      */
     public function up()
     {
-        Schema::create('chat_user', function (Blueprint $table) {
+        Schema::create('chat_users', function (Blueprint $table) {
 		$table->unsignedInteger('user_id');
 		//$table->string('user_name');
         $table->timestamps();
 		$table->foreign('user_id')
 			->references('id')
-			->on('user_data')
+			->on('user_datas')
 			->onDelete('cascade');
 	    });
     }
@@ -31,6 +31,6 @@ class CreateChatUser extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('chat_user');
+        Schema::dropIfExists('chat_users');
     }
 }

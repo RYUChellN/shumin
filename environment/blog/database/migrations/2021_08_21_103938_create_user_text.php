@@ -13,13 +13,13 @@ class CreateUserText extends Migration
      */
     public function up()
     {
-        Schema::create('user_text', function (Blueprint $table) {
+        Schema::create('user_texts', function (Blueprint $table) {
 		    $table->increments('id');
 		    $table->text('title');
 		    $table->text('user_text');
 		    $table->unsignedInteger('user_id');
 		    $table->timestamps();
-		    $table->foreign('user_id')->references('id')->on('user_data')->onDelete('cascade');
+		    $table->foreign('user_id')->references('id')->on('user_datas')->onDelete('cascade');
     	});
     }
 
@@ -30,6 +30,6 @@ class CreateUserText extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('user_text');
+        Schema::dropIfExists('user_texts');
     }
 }

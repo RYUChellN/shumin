@@ -13,7 +13,7 @@ class CreateChatRoom extends Migration
      */
     public function up()
     {
-        Schema::create('chat_room', function (Blueprint $table) {
+        Schema::create('chat_rooms', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');
             $table->timestamps();
@@ -27,6 +27,6 @@ class CreateChatRoom extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('chat_room');
+        Schema::dropIfExists('chat_rooms');
     }
 }

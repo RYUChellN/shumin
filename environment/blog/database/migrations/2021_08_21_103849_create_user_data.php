@@ -13,12 +13,13 @@ class CreateUserData extends Migration
      */
     public function up()
     {
-        Schema::create('user_data', function (Blueprint $table) {
+        Schema::create('user_datas', function (Blueprint $table) {
             $table->increments('id')->unique(); //id
 	        $table->string('name'); //ユーザーネーム
 	        $table->string('pass'); //パスワード
 	        $table->integer('birth'); //誕生日
-	        $table->tinyInteger('gender')->unsigned()->comments('性別 1:男、2:女');
+	        $table->tinyInteger('gender')->unsigned()->comments('性別 0:男、1:女');
+	        $table->integer('prefecture');
 	        $table->string('mail'); //メールアドレス
 	        $table->timestamps();
 	        $table->softDeletes();
@@ -32,6 +33,6 @@ class CreateUserData extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('user_data');
+        Schema::dropIfExists('user_datas');
     }
 }
