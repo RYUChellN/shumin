@@ -31,5 +31,13 @@
     },
     "welcome": {
         "@first": true
+    },
+    "workspace": {
+        "@folders": [
+            {
+                "name": "ec2-user",
+                "path": "~/"
+            }
+        ]
     }
 }

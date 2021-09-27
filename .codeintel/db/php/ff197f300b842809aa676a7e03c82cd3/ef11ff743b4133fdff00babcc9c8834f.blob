@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="countTest.php" src="/home/ec2-user/environment/blog/app/Http/Controllers/countTest.php"><scope ilk="namespace" line="3" name="App\Http\Controllers"><scope ilk="class" line="5" lineend="7" name="countTest"><variable attributes="public" citdl="int" line="6" name="count" /></scope></scope></scope>

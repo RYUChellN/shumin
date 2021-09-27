@@ -38,6 +38,6 @@ class CreateUserMessage extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('chat_message');
+        Schema::dropIfExists('chat_messages');
     }
 }

@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629975900,,"wq"
+|2,0,1630911050,,"wq"
 :q
-|2,0,1629631007,,"q"
+|2,0,1630909887,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,230 +27,259 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
-|4,48,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
-'1  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
-|4,49,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
-'2  20  3  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,50,20,3,1629788405,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
-'3  13  13  ~/environment/blog/.env
-|4,51,13,13,1629727692,"~/environment/blog/.env"
-'4  14  19  ~/environment/blog/.env
-|4,52,14,19,1629726691,"~/environment/blog/.env"
-'5  14  19  ~/environment/blog/.env
-|4,53,14,19,1629726691,"~/environment/blog/.env"
-'6  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,54,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
-'7  24  23  ~/environment/blog/database/migrations/2021_08_21_103938_create_user_text.php
-|4,55,24,23,1629634132,"~/environment/blog/database/migrations/2021_08_21_103938_create_user_text.php"
-'8  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,56,31,18,1629546317,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
-'9  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,57,31,18,1629546317,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
+'0  1  0  ~/environment/blog/resources/views/index.blade.php
+|4,48,1,0,1630911050,"~/environment/blog/resources/views/index.blade.php"
+'1  4  17  ~/.ssh/config
+|4,49,4,17,1630909887,"~/.ssh/config"
+'2  1  0  .ssh/config
+|4,50,1,0,1630909833,".ssh/config"
+'3  1  15  ~/environment/blog/.env
+|4,51,1,15,1630753260,"~/environment/blog/.env"
+'4  17  44  ~/environment/blog/.env
+|4,52,17,44,1630753212,"~/environment/blog/.env"
+'5  17  44  ~/environment/blog/.env
+|4,53,17,44,1630753212,"~/environment/blog/.env"
+'6  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,54,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+'7  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,55,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+'8  20  3  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
+|4,56,20,3,1629788405,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
+'9  13  13  ~/environment/blog/.env
+|4,57,13,13,1629727692,"~/environment/blog/.env"
 
 # Jumplist (newest first):
+-'  1  0  ~/environment/blog/resources/views/index.blade.php
+|4,39,1,0,1630911050,"~/environment/blog/resources/views/index.blade.php"
+-'  4  17  ~/.ssh/config
+|4,39,4,17,1630909887,"~/.ssh/config"
+-'  4  17  ~/.ssh/config
+|4,39,4,17,1630909887,"~/.ssh/config"
+-'  1  0  .ssh/config
+|4,39,1,0,1630909833,".ssh/config"
+-'  1  0  .ssh/config
+|4,39,1,0,1630909833,".ssh/config"
+-'  1  0  .ssh/config
+|4,39,1,0,1630909833,".ssh/config"
+-'  1  0  .ssh/config
+|4,39,1,0,1630909833,".ssh/config"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  1  15  ~/environment/blog/.env
+|4,39,1,15,1630753260,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753229,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  17  44  ~/environment/blog/.env
+|4,39,17,44,1630753212,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  13  13  ~/environment/blog/.env
+|4,39,13,13,1630753052,"~/environment/blog/.env"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
+-'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
+|4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
 -'  1  0  ~/environment/blog/resources/views/welcome.blade.top.php
 |4,39,1,0,1629975900,"~/environment/blog/resources/views/welcome.blade.top.php"
 -'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
 |4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
 -'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
 |4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
--'  1  0  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
-|4,39,1,0,1629788487,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
--'  1  0  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
-|4,39,1,0,1629788487,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
--'  20  3  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,20,3,1629788405,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  20  3  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,20,3,1629788405,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  20  3  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,20,3,1629788405,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  20  3  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,20,3,1629788405,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  1  0  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,1,0,1629786632,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  1  0  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,1,0,1629786632,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  1  0  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,1,0,1629786632,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  1  0  ~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php
-|4,39,1,0,1629786632,"~/environment/blog/database/migrations/2021_08_24_062801_create_chat_user.php"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  13  13  ~/environment/blog/.env
-|4,39,13,13,1629727692,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629727682,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  14  19  ~/environment/blog/.env
-|4,39,14,19,1629726691,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  1  0  ~/environment/blog/.env
-|4,39,1,0,1629726580,"~/environment/blog/.env"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  23  25  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,23,25,1629634657,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
--'  31  18  ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
-|4,39,31,18,1629634150,"~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
+-'  20  29  ~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php
+|4,39,20,29,1629789138,"~/environment/blog/database/migrations/2021_08_24_062828_create_user_room.php"
 
 # History of marks within files (newest to oldest):
+
+> ~/environment/blog/resources/views/index.blade.php
+	*	1630911047	0
+	"	1	0
+
+> ~/.ssh/config
+	*	1630909852	0
+	"	4	17
+	^	4	18
+	.	4	9
+	+	4	9
+
+> .ssh/config
+	*	1630909830	0
+	"	1	0
+
+> ~/environment/blog/.env
+	*	1630753257	0
+	"	1	15
+	^	17	45
+	.	17	44
+	+	12	15
+	+	13	14
+	+	14	19
+	+	13	14
+	+	16	17
+	+	17	20
+	+	16	88
+	+	17	44
 
 > ~/environment/blog/resources/views/welcome.blade.top.php
 	*	1629975896	0
@@ -288,16 +317,6 @@
 	+	22	28
 	+	23	3
 	+	26	3
-
-> ~/environment/blog/.env
-	*	1629727689	0
-	"	13	13
-	^	13	14
-	.	13	14
-	+	12	15
-	+	13	14
-	+	14	19
-	+	13	14
 
 > ~/environment/blog/database/migrations/2021_08_21_103849_create_user_data.php
 	*	1629634655	0
@@ -351,13 +370,6 @@
 > ~/environment/blog/database/2021_08_21_103849_create_user_data.php
 	*	1629542490	0
 	"	1	0
-
-> ~/.ssh/config
-	*	1629464018	0
-	"	4	17
-	^	4	18
-	.	4	9
-	+	4	9
 
 > ~/.ssh/id_rsa.pub
 	*	1629463809	0

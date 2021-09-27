@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="Prefecture.php" src="blog/app/Prefecture.php"><scope ilk="namespace" line="3" name="App"><import line="5" module="Illuminate\Database\Eloquent" symbol="Model" /><scope classrefs="Model" ilk="class" line="7" lineend="10" name="Prefecture"><variable attributes="protected" citdl="string" line="10" name="table" /></scope></scope></scope>

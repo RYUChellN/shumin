@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="function.php" src="blog/resources/views/function.php"><scope ilk="namespace" line="3" name="resources\views\layouts"><scope classrefs="Model" ilk="class" line="7" lineend="13" name="Fun"><scope attributes="public" ilk="function" line="9" lineend="12" name="posts" returns="this.hasMany()" signature="posts()" /></scope></scope></scope>

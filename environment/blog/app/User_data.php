@@ -8,6 +8,6 @@ class User_data extends Model
 {
     public function posts()
   {
-    return $this->hasMany('App\User_text');
+    return $this->hasMany('App\User_post');
   }
 }

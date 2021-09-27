@@ -197,3 +197,303 @@ git branch dev_basis01 origin/master
 git commit -m "Initial commit"
 git branch dev_basis01
 git commit -m "Initial commit"
+git add .
+git commit -m "Initial commit"
+git branch dev_basis01
+git dev_basis01
+git checkout dev_basis01
+git push origin dev_basis01
+git status
+git push origin dev_basis01
+git commit -m
+git status
+git commit -m
+git push origin dev_basis01
+git remote -v
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+ls
+cd blog
+php artisan make:auth
+php-7.1 artisan make:auth
+php -v
+composer require laravel/ui "^1.2"
+php artisan ui vue --auth
+npm install
+npm run dev
+php artisan serve --port=8080
+php artisan make:controller PostController
+php artisan make:model Post --migration
+php artisan serve --port=8080
+cd blog
+ls
+vi .env
+composer require laravel/socialite 3.2
+php -v
+composer require laravel/socialite 3.2
+composer require laravel/socialite 
+php artisan serve --port=8080
+git status
+git add .
+git status
+git commit -m 'add Authentication'
+git push origin dev_basis01
+git remote
+git remote add origin <url>
+git remote -v
+git remote add origin <git@github.com:RYUChellN/shumin.git>
+git remote add origin git@github.com:RYUChellN/shumin.git
+git remote -v
+git push origin dev_basis01
+ssh -T git@github.com
+git push origin dev_basis01
+ls -l ~/.ssh/
+vi .ssh/config
+cd .ssh
+vi ~/.ssh/config
+ssh -T git@github.com
+git push origin dev_basis01
+ git branch v002 origin/master
+git branch v003
+git branch v002
+git branch
+git checkout v002
+vi blog/resources/views/index.blade.php
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+php artisan migrate
+php artisan serve --port=8080
+db
+mysql -u dbuser -p blog
+mysql -u dbuser
+mysql -u dbuser -p
+php artisan migrate
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+php artisan migrate
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan migrate
+php artisan migrate:refresh
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+cd blog/app/
+ls
+cd ../
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+php artisan tinker
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan migrate:refresh
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+cd blog
+npm -v
+npm run
+npm run dev
+php artisan serve --port=8080
+php artisan migrate
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+sudo timedatectl set-timezone Asia/Tokyo
+timedatectl
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+git push v002
+git add .
+git commit -m "add user_text relation"
+git remote add v002 git@github.com:RYUChellN/shumin.git
+git v002  master
+git push v002 master
+git push origin v002
+php artisan migrate:fresh
+cd blog
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+-v
+php artisan migrate:fresh -v
+php artisan migrate:fresh
+$table->foreign('user_id')
+    ->references('user_id')
+    ->on('chat_users')
+php artisan migrate:fresh
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+php artisan migrate:fresh
+composer dump-autoload
+php artisan migrate:fresh
+composer dump-autoload
+php artisan migrate:fresh
+composer dump-autoload
+php artisan migrate:fresh
+cd blog
+php artisan migrate:fresh
+composer dump-autoload
+php artisan migrate:fresh
+composer dump-autoload
+php artisan migrate:refresh
+composer dump-autoload
+php artisan migrate:refresh
+composer dump-autoload
+php artisan migrate:refresh
+composer dump-autoload
+php artisan migrate:refresh
+php artisan migrate:reset
+composer dump-autoload
+php artisan migrate:reset
+php artisan migrate:fresh
+composer dump-autoload
+php artisan migrate:fresh
+php artisan migrate:fresh -v
+php artisan migrate:fresh
+php artisan serve --port=8080
+lsof -i :8080
+kill -QUIT 29264
+php artisan migrate:fresh
+cd blog
+php artisan migrate:fresh
+composer dump-autoload
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+php artisan cache:clear
+php artisan migrate:fresh
+php artisan config:clear
+php artisan migrate:fresh
+php artisan route:clear
+php artisan migrate:fresh
+php artisan view:clear
+php artisan migrate:fresh
+cd ./bootstrap/cache/
+ls
+php artisan migrate:fresh
+cd
+cd environment/blog/
+php artisan migrate:fresh
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+composer require calebporzio/livewire
+composer require calebporzio/livewire:0.*
+php artisan make:livewire birthday
+php artisan serve --port=8080
+php artisan migrate:fresh
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+php artisan migrate:fresh
+php artisan serve --port=8080
+php artisan migrate:fresh
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan migrate:fresh
+php artisan serve --port=8080
+php artisan migrate:fresh
+php artisan serve --port=8080
+php artisan migrate:fresh
+php artisan serve --port=8080
+php artisan migrate:fresh
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+cd blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+cd blog
+php artisan cache:clear
+composer dump-autoload
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+php artisan serve --port=8080
+php artisan make:migration create_Prefectures_table
+php artisan make:migration create_prefectures_table
+php artisan make:migration create_allprefectures_table
+php artisan migrate:fresh
+mysql -u dbuser -p blog
+php artisan make:seeder PrefectureTableSeeder
+php artisan db:seed
+php artisan make:model Prefecture 
+php artisan serve --port=8080
+php artisan make:model Prefecture 
+cd blog
+php artisan make:model Prefecture 
+php artisan db:seed
+php artisan migrate:fresh
+php artisan db:seed
+php artisan migrate:fresh
+php artisan db:seed
+php artisan serve --port=8080
+php artisan migrate:fresh
+php artisan db:seed
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+mysql -u dbuser -p blog
+cd blog
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+cd blog
+php artisan serve --port=8080
+git push v002
+git push origin master
+git push origin v002
+git add -a

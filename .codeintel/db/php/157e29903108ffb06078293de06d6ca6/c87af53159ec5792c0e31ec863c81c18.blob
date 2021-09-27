@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="logging.php" src="/home/ec2-user/environment/blog/config/logging.php"><import line="3" module="Monolog\Handler" symbol="NullHandler" /><import line="4" module="Monolog\Handler" symbol="StreamHandler" /><import line="5" module="Monolog\Handler" symbol="SyslogUdpHandler" /></scope>

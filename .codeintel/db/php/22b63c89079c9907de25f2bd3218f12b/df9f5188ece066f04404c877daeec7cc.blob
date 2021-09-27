@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="Post.php" src="blog/app/Post.php"><scope ilk="namespace" line="3" name="App"><import line="5" module="Illuminate\Database\Eloquent" symbol="Model" /></scope></scope>

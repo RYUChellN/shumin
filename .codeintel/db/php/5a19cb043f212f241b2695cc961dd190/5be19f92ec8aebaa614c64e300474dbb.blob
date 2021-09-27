@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="api.php" src="/home/ec2-user/environment/blog/routes/api.php"><import line="3" module="Illuminate\Http" symbol="Request" /></scope>

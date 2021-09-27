@@ -2,11 +2,14 @@
 
 namespace App\Http\Controllers\Auth;
 
+use Auth;
 use App\Http\Controllers\Controller;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use Socialite;
 use App\User;
+use Illuminate\Http\Request;
+
 
 class LoginController extends Controller
 {
@@ -49,7 +52,6 @@ class LoginController extends Controller
     public function handleGoogleCallback()
     {
         // Google 認証後の処理
-        // あとで処理を追加しますが、とりあえず dd() で取得するユーザー情報を確認
         $gUser = Socialite::driver('google')->stateless()->user();
         // email が合致するユーザーを取得
         $user = User::where('email', $gUser->email)->first();
@@ -69,5 +71,9 @@ class LoginController extends Controller
             'password' => \Hash::make(uniqid()),
         ]);
         return $user;
+    }
+    public function logout(Request $request) {
+        Auth::logout();
+        return redirect('/');
     }
 }

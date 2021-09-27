@@ -36,6 +36,6 @@ class CreateUserRoom extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('chat_user_room');
+        Schema::dropIfExists('chat_user_rooms');
     }
 }
